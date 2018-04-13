@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">도시미래신문</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="gcm_registered">gcm_registered</string>
+    <string name="gcm_unregistered">gcm_unregistered</string>
+    <string name="gcm_message">gcm_message</string>
+    <string name="gcm_deleted">gcm_deleted</string>
+    <string name="gcm_error">gcm_error</string>
+    <string name="gcm_recoverable_error">gcm_recoverable_error</string>
+    <string name="error_config">error_config</string> 
+    
+    <string name="display"></string>
+    <string name="options_clear"></string>
+    <string name="options_exit"></string>
+    <string name="kakao_app_key">aca686da451307838d9e45e7500a01c5</string>
+    <string name="kakao_scheme">aca686da451307838d9e45e7500a01c5</string>
+    <string name="kakaolink_host">kakaolink</string>
+    
+
+
+</resources>
