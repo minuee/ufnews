@@ -1,3 +1,0 @@
-# ufnews
-
-this ufnewstest
